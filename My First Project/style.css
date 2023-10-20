@@ -91,7 +91,7 @@ img {
   height: 50%;
   align-items: center;
 }
-
+/* here is the container class */
 .container {
   display: flex;
   align-items: center;
@@ -108,6 +108,13 @@ img {
   }
 
 }
-.hr{
-
+.img2 .oval-shape{
+  width:200px;
+  height:200px;
+  border-radius: 50%;
+}
+.footer{
+  background-color: rgb(153, 183, 169);
+  /* margin: 100px; */
+  padding:60px;
 }
